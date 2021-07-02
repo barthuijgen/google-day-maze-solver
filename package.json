@@ -1,0 +1,17 @@
+{
+  "name": "google-day-maze-runner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/get-pixels": "3.3.1",
+    "prettier": "2.3.2",
+    "ts-node": "10.0.0",
+    "typescript": "4.3.5"
+  },
+  "dependencies": {
+    "@types/node": "15.14.0",
+    "get-pixels": "3.3.2",
+    "parcel": "2.0.0-beta.2"
+  }
+}
